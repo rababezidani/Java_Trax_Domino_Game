@@ -1,7 +1,3 @@
-Parfait 🌸 voici le **texte complet et prêt à coller directement** dans ton README GitHub — sans code ni lignes de commande, juste le contenu clair et professionnel 👇
-
----
-
 # 🎮 Projet Java — Jeux de Tuiles : Domino & Trax
 
 Ce projet a été réalisé dans le cadre du module **Programmation 2 (Java)** à l’École d’Ingénieurs Denis Diderot – **Université Paris Cité**.
